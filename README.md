@@ -1,4 +1,4 @@
-# Etl_konecta
+# Seguir los pasos para ejecutar este proyecto
 Pasos para ejecutar los scripts:
 
 Los primeros scripts se ejecutarán desde SQL Managemente studio:
