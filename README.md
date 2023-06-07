@@ -3,9 +3,11 @@ Pasos para ejecutar los scripts:
 
 Los primeros scripts se ejecutarán desde SQL Managemente studio:
 
-	1. Ejecutar el script sql "1_CrearDB.sql" : Este script creará la base de datos y un login el cuál se 		usará para insertar datos
+	1. Ejecutar el script sql "1_CrearDB.sql" : Este script creará la base de datos y un login el cuál se 
+	usará para insertar datos
 
-	2. Ejecutar el script sql "2_CrearTable.sql": Este script creará la tabla necesaria además creará el 		user y otorgará los permisos necesarios
+	2. Ejecutar el script sql "2_CrearTable.sql": Este script creará la tabla necesaria además creará el 
+	user y otorgará los permisos necesarios
 
 	3. Abrir el script de Python "transformar_insertar.py"
 		
